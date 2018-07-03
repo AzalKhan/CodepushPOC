@@ -1,0 +1,8 @@
+{
+  "name": "codepushapp",
+  "app_id": "42cc9dcd",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
