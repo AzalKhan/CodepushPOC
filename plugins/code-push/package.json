@@ -35,7 +35,7 @@
     "recursive-fs": "0.1.4",
     "slash": "1.0.0",
     "superagent": "^1.7.2",
-    "superagent-proxy": "^1.0.0",
+    "superagent-proxy": "^2.1.0",
     "yazl": "^2.4.1"
   },
   "deprecated": false,
